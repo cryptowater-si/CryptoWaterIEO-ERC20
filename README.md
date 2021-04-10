@@ -48,11 +48,11 @@
 # CEX Exchanges
 
 * C2O listing on Bololex exchange: http://bololex.cryptowater.eu (C2O/USDT, C2O/ARCO, C2O/XRP)
-* C2O listing on Tokens exchange: http://tokens.cryptowater.eu (C2O/USDT)
+* C2O listing on Tokens exchange: http://tokens.cryptowater.eu (C2O/USDT) (Tokens.net has closed its operations on 1.april 2021)
 * C2O listing on Unnamed exchange: http://unnamed.cryptowater.eu
 * C2O listing on Vindax exchange: http://vindax.cryptowater.eu (C2O/USDT)
-* C2O listing on Erex exchange: http://erex.cryptowater.eu
-* C2O listing on Altilly exchange: https://altilly.cryptowater.eu (Altilly suffered a security breach, 3% of all C2O tokens are lost)
+* C2O listing on Erex exchange: http://erex.cryptowater.eu (exchange pulled an exit scam and 5000 C2O have been stolen)
+* C2O listing on Altilly exchange: https://altilly.cryptowater.eu (Altilly suffered a security breach, 3% (5000) of all C2O tokens are lost, repayment claim requested)
 * C2O listing on SatoExchange http://satoexchange.cryptowater.eu
 
 # DEX Exchanges
